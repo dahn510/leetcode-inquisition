@@ -1,2 +1,3 @@
 # leetcode-inquisition
-Nobody expects leetcode inquisition not even at your terminal
+Nobody expects leetcode inquisition
+Nobody is safe from leetcode, not even at your terminal
