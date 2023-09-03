@@ -13,4 +13,5 @@ like [Kitty](https://sw.kovidgoyal.net/kitty/)
 
 ## Usage
 
+Install: `make DESTDIR=/usr/bin install`  
 run `leetcode-inquisition` to get a random leetcode question at your terminal
